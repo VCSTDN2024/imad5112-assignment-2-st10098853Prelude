@@ -53,6 +53,13 @@ Youtube Video Link:https://youtu.be/wwZj86NIKNg
 
 Images and App Screenshot 
 
+![Screenshot_2025 05 20_19 19 08 082](https://github.com/user-attachments/assets/e5ab5727-653a-4af3-85dc-c3e10763d3e9)
+
+![Screenshot_2025 05 20_19 19 22 083](https://github.com/user-attachments/assets/c9e0a205-b106-4b13-8c88-d27738ca62b1)
+
+![Screenshot_2025 05 20_19 19 47 684](https://github.com/user-attachments/assets/c3a1157e-b0da-4824-93b4-80c47aefe773)
+
+![Screenshot_2025 05 20_19 19 54 486](https://github.com/user-attachments/assets/0a411b5f-4677-41e3-af60-099e4f981392)
 
 References 
 [Prelude].(2025)[Life Cards App][kotlin].[https://github.com/VCSTDN2024/imad5112-assignment-2-st10098853Prelude/tree/main].GitHub.
