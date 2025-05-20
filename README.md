@@ -2,10 +2,10 @@
 
  Overview
 
-The Life Cards App is an interactive flashcard app designed to inspire and motivate users with thought-provoking quotes and questions. Users can test their knowledge, score their responses, and receive encouraging feedback.
+With provocative quotes and questions, the Life Cards App is an interactive flashcard app that aims to uplift and encourage users. Users can score their answers, test their knowledge and get positive 
 
  Purpose
-
+ 
 The purpose of the Life Cards App is to provide a fun and interactive way for users to reflect on their thoughts and attitudes towards life. By answering flashcard questions based on inspiring quotes, users can gain insights into their perspectives and develop a more positive outlook.
 
 Design Considerations
@@ -26,7 +26,7 @@ Features
     - "The morning is the best time of day"
     - "Good things come to those who wait"
 - Scoring and Feedback: Receive feedback based on your score:
-    - Tewww Good! You Aced Your Life! (perfect score)
+    - Tewww Good! You Aced Your Life! (excellent score)
     - You Did Amazing! (score >= 6/7)
     - Next time, SLAY! (room for improvement)
 
@@ -37,7 +37,7 @@ Technical Details
 
 Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/life-cards-app.git`
+1. Clone the repository: https://github.com/VCSTDN2024/imad5112-assignment-2-st10098853Prelude/tree/main
 2. Install dependencies: `npm install` or `yarn install`
 3. Run the app: `npm start` or `yarn start`
 
@@ -47,6 +47,13 @@ Contributions to the Life Cards App are welcome! If you'd like to contribute, pl
 
 License
 
-The Life Cards App is licensed under the https://opensource.org/licenses/MIT.
+The Life Cards App is licensed under the Apache License 2.0
 
 Youtube Video Link:https://youtu.be/wwZj86NIKNg
+
+Images and App Screenshot 
+
+
+References 
+[Prelude].(2025)[Life Cards App][kotlin].[https://github.com/VCSTDN2024/imad5112-assignment-2-st10098853Prelude/tree/main].GitHub.
+
